@@ -2871,7 +2871,7 @@ highlight.diff5 {
 						display: inline-block !important;
 						text-align: center;
 						width: inherit;
-						
+						margin-right: 0.8em;
 					}
 
 						ul.actions li > * {
